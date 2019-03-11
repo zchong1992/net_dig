@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (net_reco.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  neuron_utils.cpp
+  neuron.cpp
+  data_input.cpp
+  bp_neuron_net.cpp
+  net_reco.vcxproj -> C:\code\digital_recognition_with_neuron_network\x64\Debug\digital_recognition.exe
+  net_reco.vcxproj -> C:\code\digital_recognition_with_neuron_network\x64\Debug\digital_recognition.pdb (Full PDB)
